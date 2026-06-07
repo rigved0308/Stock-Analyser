@@ -33,8 +33,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Live Demo
-[https://stock-analyser-saz2u8up4pachnzkxz9zs.streamlit.app](https://stock-analyser-saz2u8up4pachnzkxz9zs.streamlit.app)
+
 
 ## GitHub Repository
 [https://github.com/rigved0308/Stock-Analyser](https://github.com/rigved0308/Stock-Analyser)
